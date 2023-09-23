@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816593628632",
+    "project_id": "ncatch-ef4cf",
+    "storage_bucket": "ncatch-ef4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816593628632:android:6fbdf8d0b795e904cb56ad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAzmggRRBBvwAx-0pN-pB86mmopfjAHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
